@@ -1,9 +1,0 @@
-{
-    "name": "AutoMine",
-    "entry": "auto-mine.dll",
-    "version": "1.0.0",
-    "type": "native",
-    "platform": "client",
-    "description": "客户端自动挖掘模组：自动挖掉周围半径5内除基岩/流体外的所有方块",
-    "author": "AutoMine"
-}
